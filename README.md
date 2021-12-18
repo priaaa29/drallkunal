@@ -2,7 +2,7 @@
 - 👀 I’m interested in human development, Futuristic tech, AI ,Game development, Sanskrit.
 - 🌱 I’m currently learning Game Development.
 - 💞️ I’m looking to collaborate on creating  an organistion for human well-being.
-- 📫 How to reach me - Mail@- kunaldrall8@gmail.com
+- 📫 How to reach me - Mail@- kunal@visionorg.me
 
 <!---
 drallkunal/drallkunal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
