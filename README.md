@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drallkunal
-- 👀 I’m interested in human development, Futuristic tech, AI ,Web development, Sanskrit.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on creating  an organistion for human well-being.
+- 👀 I’m interested in Web/Android Development
+- 🌱 I’m currently learning Web Development..
+- 💞️ I’m looking to collaborate on creating interest projects.
 - 📫 How to reach me - Mail@- hello@kunaldrall.studio
 - Visit me at http://kunaldrall.studio
 
