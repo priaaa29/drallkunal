@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web/Android Development
 - 🌱 I’m currently learning Web Development..
 - 💞️ I’m looking to collaborate on creating interest projects.
-- 📫 How to reach me - Mail@- hello@kunaldrall.studio
-- Visit me at http://kunaldrall.studio
+- 📫 How to reach me - Mail@- kunaldrall29@gmail.com
+- Visit me at 
 
 <!---
 drallkunal/drallkunal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
