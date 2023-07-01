@@ -66,8 +66,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.linkedin.com/in/kunaldrall/"><img src="https://www.vecteezy.com/png/18930587-linkedin-logo-png-linkedin-icon-transparent-png"> LinkedIn </a>
 <a href="mailto:kunaldrall29@gmail.com"><img src="https://www.vecteezy.com/free-vector/mail-icon"> Mail </a>
-<--<a href="https://www.instagram.com/kunaaldrall/">Instagram</a>
-<a href="https://www.facebook.com/rafael.azizov.503/"><img src="https://img.shields.io/badge/-@rafael.azizovv-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<!--<a href="https://www.instagram.com/kunaaldrall/">Instagram</a>
 --></p>
 
 
