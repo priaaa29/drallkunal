@@ -64,8 +64,8 @@ Here are some ideas to get you started:
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kunaldrall/"><a href="https://ibb.co/w0tnPCJ"><img src="https://i.ibb.co/w0tnPCJ/vecteezy-linkedin-logo-png-linkedin-icon-transparent-png-18930587-72.png" alt="vecteezy-linkedin-logo-png-linkedin-icon-transparent-png-18930587-72" border="0"></a> LinkedIn </a>
-<a href="mailto:kunaldrall29@gmail.com"><img src="https://www.vecteezy.com/free-vector/mail-icon"> Mail </a>
+<a href="https://www.linkedin.com/in/kunaldrall/"> LinkedIn </a>
+<a href="mailto:kunaldrall29@gmail.com"> Mail </a>
 <!--<a href="https://www.instagram.com/kunaaldrall/">Instagram</a>
 --></p>
 
