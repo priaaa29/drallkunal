@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.linkedin.com/in/kunaldrall/"> LinkedIn </a>
 <a href="mailto:kunaldrall29@gmail.com"> Mail </a>
-<!--<a href="https://www.instagram.com/kunaaldrall/">Instagram</a>
---></p>-->
+<a href="https://www.instagram.com/kunaaldrall/">Instagram</a>
+</p>-->
 
 
 <!---
