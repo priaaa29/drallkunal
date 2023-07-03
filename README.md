@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Kunal <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
- <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Open+Source+Contributor;Back-end+Engineer;Full+Stack+Developer)" align="center">
+ <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Open+Source+Contributor;Back-end+Engineer;Full+Stack+Developer" align="center">
 </p>
 
 <!--
@@ -61,13 +61,13 @@ Here are some ideas to get you started:
   <br/>
   
   
-  ### 🤝🏻 &nbsp;Connect with Me
+ <!-- ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kunaldrall/"> LinkedIn </a>
 <a href="mailto:kunaldrall29@gmail.com"> Mail </a>
 <!--<a href="https://www.instagram.com/kunaaldrall/">Instagram</a>
---></p>
+--></p>-->
 
 
 <!---
